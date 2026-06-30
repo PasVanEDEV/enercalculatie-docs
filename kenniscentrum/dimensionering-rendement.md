@@ -1,7 +1,6 @@
 ---
-title: Dimensionering & Rendement
-description: Hydraulische inregeling en warmtepompselectie
----
+title: "Dimensionering & Rendement"
+description: "Hydraulische inregeling en warmtepompselectie"---
 
 Nadat het warmteverlies is gecalculeerd, helpt EnerCalculatie bij het selecteren en optimaal inregelen van de installatie.
 

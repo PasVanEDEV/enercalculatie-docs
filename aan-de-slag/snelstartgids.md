@@ -1,7 +1,6 @@
 ---
-title: Snelstartgids
-description: Binnen 5 minuten uw eerste energiecalculatie gereed
----
+title: "Snelstartgids"
+description: "Binnen 5 minuten uw eerste energiecalculatie gereed"---
 
 Volg deze stappen om direct een volledig adviesrapport inclusief zonnepanelen, batterij en warmtepomp te genereren voor uw klant. De applicatie is opgebouwd uit **7 tabbladen** waar u op elk moment vrij tussen kunt wisselen. Gegevens worden altijd automatisch opgeslagen (u ziet rechtsboven de melding "Opgeslagen om HH:MM").
 

@@ -1,7 +1,6 @@
 ---
-title: Rapportages & Delen
-description: Hoe u professionele adviesrapporten genereert en deelt met uw klanten
----
+title: "Rapportages & Delen"
+description: "Hoe u professionele adviesrapporten genereert en deelt met uw klanten"---
 
 Het einddoel van elke berekening in EnerCalculatie is het genereren van een helder, professioneel adviesrapport voor uw eindklant.
 

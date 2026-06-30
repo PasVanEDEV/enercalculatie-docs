@@ -1,7 +1,6 @@
 ---
-title: Warmtepompen & Airco's
-description: De werking, belangrijke rendementstermen (COP/SCOP) en een ROI berekening
----
+title: "Warmtepompen & Airco's"
+description: "De werking, belangrijke rendementstermen (COP/SCOP) en een ROI berekening"---
 
 Een warmtepomp haalt warmte uit een externe bron (de buitenlucht, bodem of grondwater) en verplaatst deze naar binnen. Dit proces gebruikt elektriciteit als aandrijving, maar levert vele malen méér energie op dan het verbruikt, wat het zeer efficiënt maakt.
 

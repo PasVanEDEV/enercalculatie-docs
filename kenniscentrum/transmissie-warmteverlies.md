@@ -1,7 +1,6 @@
 ---
-title: Transmissie & Warmteverlies
-description: Berekeningsmethodiek conform ISSO-richtlijnen
----
+title: "Transmissie & Warmteverlies"
+description: "Berekeningsmethodiek conform ISSO-richtlijnen"---
 
 De warmteverliesberekening bepaalt het piekvermogen dat nodig is om het gebouw warm te houden tijdens extreme winterse omstandigheden.
 

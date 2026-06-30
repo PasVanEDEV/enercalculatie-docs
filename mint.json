@@ -1,6 +1,10 @@
 {
   "name": "EnerCalculatie Kennisbank",
-  "favicon": "/favicon.svg",
+  "logo": {
+    "dark": "https://mintlify.com/favicon.svg",
+    "light": "https://mintlify.com/favicon.svg"
+  },
+  "favicon": "https://mintlify.com/favicon.svg",
   "colors": {
     "primary": "#2563EB",
     "light": "#3B82F6",

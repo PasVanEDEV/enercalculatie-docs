@@ -1,7 +1,6 @@
 ---
-title: Subsidies & Regelingen (Nederland 2026)
-description: Actuele subsidies (ISDE, SEEH) en BTW-regels voor installaties
----
+title: "Subsidies & Regelingen (Nederland 2026)"
+description: "Actuele subsidies (ISDE, SEEH) en BTW-regels voor installaties"---
 
 > [!WARNING]
 > Let op: Subsidies en fiscale regelingen veranderen jaarlijks. EnerCalculatie gebruikt altijd de meest actuele, ingebouwde subsidie-bedragen (bijgewerkt in 2026) in uw adviesrapporten. 

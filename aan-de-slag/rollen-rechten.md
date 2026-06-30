@@ -1,7 +1,6 @@
 ---
-title: Rollen & Rechten
-description: Uitleg over de gebruikersrollen (Advisor vs Tenant Admin) en GDPR functionaliteit
----
+title: "Rollen & Rechten"
+description: "Uitleg over de gebruikersrollen (Advisor vs Tenant Admin) en GDPR functionaliteit"---
 
 Binnen EnerCalculatie werkt u altijd vanuit een organisatie, ook wel een **Tenant** genoemd. Binnen deze tenant zijn er twee verschillende rollen beschikbaar om de toegang en rechten van uw medewerkers te beheren.
 

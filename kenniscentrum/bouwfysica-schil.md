@@ -1,7 +1,6 @@
 ---
-title: Bouwfysica & Schilberekeningen
-description: Thermische eigenschappen van de gebouwschil
----
+title: "Bouwfysica & Schilberekeningen"
+description: "Thermische eigenschappen van de gebouwschil"---
 
 Voor een correcte calculatie moet de thermische kwaliteit van de gebouwschil nauwkeurig worden ingevoerd. Hieronder vindt u het relevante vakjargon en de definities.
 

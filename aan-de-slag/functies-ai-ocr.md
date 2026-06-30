@@ -1,7 +1,6 @@
 ---
-title: AI-OCR Factuurherkenning
-description: Automatisch data uitlezen uit bestaande energienota's
----
+title: "AI-OCR Factuurherkenning"
+description: "Automatisch data uitlezen uit bestaande energienota's"---
 
 De AI-OCR (Optical Character Recognition) module van EnerCalculatie is het startpunt van elke succesvolle offerte. Binnen enkele seconden digitaliseert u hiermee de complexe energierekening van uw klant, zonder handmatig overtypen.
 

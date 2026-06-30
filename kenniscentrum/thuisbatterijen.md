@@ -1,7 +1,6 @@
 ---
-title: Thuisbatterijen
-description: Waarom thuisbatterijen essentieel worden, terminologie en ROI
----
+title: "Thuisbatterijen"
+description: "Waarom thuisbatterijen essentieel worden, terminologie en ROI"---
 
 Door het vervallen van de salderingsregeling op 1 januari 2027, wordt het terugleveren van zonnestroom aan het net financieel veel minder aantrekkelijk. Met een thuisbatterij slaat u de goedkope, overdag opgewekte zonnestroom op om deze 's avonds of 's nachts zelf te gebruiken. **Dit maakt de businesscase voor thuisbatterijen na 2027 zeer sterk.**
 

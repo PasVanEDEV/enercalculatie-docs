@@ -1,7 +1,6 @@
 ---
-title: Introductie EnerCalculatie
-description: Welkom bij de kennisbank van EnerCalculatie.nl
----
+title: "Introductie EnerCalculatie"
+description: "Welkom bij de kennisbank van EnerCalculatie.nl"---
 
 Welkom bij de kennisbank van **EnerCalculatie.nl**. Dit platform helpt installateurs en energieadviseurs om binnen 5 minuten foutloze, commercieel ijzersterke offertes te genereren voor zonnepanelen, thuisbatterijen en warmtepompen.
 

@@ -1,7 +1,6 @@
 ---
-title: Koellast, Zomercomfort & TO-juli
-description: Beheersing van zomerse warmtestromen en regelgeving
----
+title: "Koellast, Zomercomfort & TO-juli"
+description: "Beheersing van zomerse warmtestromen en regelgeving"---
 
 Naast het warmhouden van een gebouw in de winter, is het voorkomen van oververhitting in de zomer een wettelijk vereiste binnen het Bouwbesluit.
 

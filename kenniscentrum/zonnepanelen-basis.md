@@ -1,7 +1,6 @@
 ---
-title: Zonnepanelen (Basis)
-description: Hoe werken zonnepanelen, belangrijke termen en rekenvoorbeelden
----
+title: "Zonnepanelen (Basis)"
+description: "Hoe werken zonnepanelen, belangrijke termen en rekenvoorbeelden"---
 
 Zonnepanelen (PV = Photovoltaic) zetten zonlicht om in gelijkstroom (DC). Een **omvormer** converteert deze gelijkstroom vervolgens naar wisselstroom (AC) zodat deze gebruikt kan worden in de woning of kan worden teruggeleverd aan het elektriciteitsnet.
 

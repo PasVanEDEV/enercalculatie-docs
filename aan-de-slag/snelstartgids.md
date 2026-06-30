@@ -1,41 +1,196 @@
 ---
 title: "Snelstartgids"
-description: "Binnen 5 minuten uw eerste energiecalculatie gereed"---
+description: "Binnen 5 minuten uw eerste volledige energiecalculatie gereed"
+---
 
-Volg deze stappen om direct een volledig adviesrapport inclusief zonnepanelen, batterij en warmtepomp te genereren voor uw klant. De applicatie is opgebouwd uit **7 tabbladen** waar u op elk moment vrij tussen kunt wisselen. Gegevens worden altijd automatisch opgeslagen (u ziet rechtsboven de melding "Opgeslagen om HH:MM").
+Volg deze gids om snel en foutloos een dossier op te stellen. EnerCalculatie begeleidt u stap voor stap via een overzichtelijke 12-stappen workflow.
 
-### Stap 1: Pandgegevens
-1. Log in op het dashboard van EnerCalculatie.
-2. Klik op **Nieuw Dossier**.
-3. Voer de basisgegevens van de klant en de woning in. Hier kiest u ook welk pakket u aanbiedt.
+---
 
-### Stap 2: AI Scan & OCR
-1. Ga naar het tabblad **AI Scan & OCR**.
-2. Upload een energierekening van de klant (PDF, JPG, PNG of WEBP).
-3. De AI heeft 5-15 seconden nodig om het bestand te verwerken.
-4. **Belangrijk:** Controleer altijd de uitgelezen waarden. De AI is zeer accuraat, maar u blijft als adviseur eindverantwoordelijk.
+## 1. Account & Inloggen
 
-### Stap 3: Energieprofiel
-1. Indien u geen AI Scan heeft gebruikt, vult u hier handmatig het huidige stroom- en gasverbruik in.
-2. Eventuele foutieve correcties uit de AI Scan kunt u hier eenvoudig overschrijven; de berekeningen worden direct aangepast.
-3. Specificeer het type aansluiting (bijv. 1-fase of 3-fase).
+### Account aanmaken
+EnerCalculatie werkt op uitnodiging. Er is geen openbare registratie. 
+1. Ga naar [www.enercalculatie.nl](https://www.enercalculatie.nl).
+2. Klik op **Start gratis proefperiode**.
+3. Vul het formulier in. U ontvangt uw inloggegevens per e-mail.
 
-### Stap 4: Zonnepanelen
-1. Configureer de gewenste zonnepanelen installatie.
-2. Voer het aantal panelen, het Wp (Wattpiek) per paneel, de oriëntatie en de hellingshoek in.
-3. Het systeem berekent direct de verwachte jaarlijkse opbrengst op basis van actuele rekenmodellen.
+*[SCREENSHOT: Toon de website www.enercalculatie.nl met de CTA Start gratis proefperiode]*
 
-### Stap 5: Thuisbatterij
-1. Voeg eventueel een thuisbatterij toe aan het advies.
-2. Kies de bruikbare capaciteit (kWh) en het vermogen (kW).
-3. In de resultaten wordt automatisch rekening gehouden met de salderingsregeling en hoeveel zonnestroom er kan worden opgeslagen voor eigen verbruik.
+### Inloggen
+Ga naar [app.enercalculatie.nl](https://app.enercalculatie.nl), vil uw e-mailadres en wachtwoord in en klik op **Inloggen**.
 
-### Stap 6: Rendement & ROI
-1. Bekijk de financiële resultaten. 
-2. Het systeem toont de deterministische, controleerbare uitkomsten waaronder de Terugverdientijd (TVT) en het financieel rendement.
-3. Hier ziet u ook direct de impact van het stopzetten van de salderingsregeling (vanaf 2027) op de businesscase.
+*[SCREENSHOT: Het inlogscherm van app.enercalculatie.nl]*
 
-### Stap 7: Adviesrapport
-1. Controleer of alle resultaten naar wens zijn.
-2. Genereer het definitieve adviesrapport voor de klant. Dit wordt geëxporteerd als een professionele PDF (liggend A4-formaat, met sfeervolle achtergrondafbeeldingen).
-3. U kunt het rapport direct downloaden of een publiek deelbare link genereren om via e-mail naar de klant te sturen.
+---
+
+## 2. Het Dashboard
+Na het inloggen ziet u uw dashboard. Hier vindt u een overzicht van al uw dossiers. Klik op **Dossier aanmaken** om direct een nieuw klantdossier te starten.
+
+*[SCREENSHOT: Dashboard met de knop Dossier aanmaken]*
+
+---
+
+## 3. Stappenplan (De 12 Workflow Stappen)
+
+Via het linker menu doorloopt u de 12 stappen van het dossier:
+
+| Stap | Scherm | Doel |
+| :--- | :--- | :--- |
+| **1** | Pand & Klantdossier Registratie | Pandgegevens, dakkenmerken en meterkast-specificaties invoeren |
+| **2** | Slimme Documenten Uitlezer & AI OCR | Energierekening uploaden en automatisch laten uitlezen |
+| **3** | Verbruiksprofiel & Energievraag | Uitgelezen verbruiksgegevens en tarieven controleren/aanvullen |
+| **4** | Legplan & Zonnepanelen Dimensionering | Interactief legplan opstellen op de luchtfoto |
+| **5** | Thuisbatterij & Energieopslag Configurator | Thuisbatterij configureren (inclusief dynamische netsturing) |
+| **6** | Warmtepomp Configurator | Type warmtepomp selecteren en ISDE-subsidie berekenen |
+| **7** | Airco & Lucht-Lucht Warmtepomp | Binnen- en buitenunits configureren per ruimte |
+| **8** | Laadpaal Configurator (EV) | Type laadpaal en Load Balancing specificeren |
+| **9** | ROI & Financiële Rendementsprognose | Automatisch gegenereerde businesscase en grafieken inzien |
+| **10** | Technische Schouw - Overzicht | Alleen-lezen samenvatting van alle schouwgegevens controleren |
+| **11** | Concept Adviesrapport & Offerte | Begeleidende brief schrijven (AI) en PDF/link genereren |
+| **12** | Werkvoorbereiding & Logistiek | Bill of Materials (BOM) en installatie-instructies bekijken |
+
+---
+
+### Stap 1 - Pand & Klantdossier Registratie
+Klik op **Pandgegevens** in het linker menu.
+
+*   **Locatie Details:** Voer postcode en huisnummer in. Het systeem haalt gegevens direct op uit de BAG-registratie (bouwjaar, type pand).
+*   **Gebruiks- & Gebouwprofiel:** Geef het daktype, dakhelling, dakoppervlak, energielabel en het aantal bewoners op.
+*   **Logistiek & Bereikbaarheid:** Noteer parkeermogelijkheden en benodigd klimmaterieel (zoals RSS-valbeveiliging).
+*   **Groepenkast & Elektra:** Selecteer type aansluiting (1-fase / 3-fase), hoofdzekering (A) en geef aan of er ruimte is in de meterkast.
+*   **Wandconstructie & Kabeltrajecten:** Selecteer de wandconstructie en beschrijf de kabelroute van de omvormer naar de meterkast.
+*   **Foto's uploaden:** Voeg foto's toe van de voorgevel, het dak en de groepenkast.
+
+*[SCREENSHOT: Scherm Pand & Klantdossier Registratie met alle secties]*
+
+> [!TIP]
+> Vul alle velden zo volledig mogelijk in. Ontbrekende gegevens worden in het schouwoverzicht (Stap 10) als leeg weergegeven.
+
+---
+
+### Stap 2 - Slimme Documenten Uitlezer & AI OCR
+Klik op **AI Scan & OCR** in het linker menu.
+
+1. Sleep de energierekening van de klant (PDF of smartphone-foto) naar het uploadveld of klik op het gebied om een bestand te selecteren.
+2. De AI-engine analyseert het document op de achtergrond en haalt binnen 15 seconden de verbruiksgegevens en tarieven op.
+3. De geëxtraheerde data wordt automatisch ingevuld in Stap 3.
+
+*[SCREENSHOT: Slimme Documenten Uitlezer met geüpload document]*
+
+---
+
+### Stap 3 - Verbruiksprofiel & Energievraag
+Klik op **Energieprofiel** in het linker menu.
+
+*   **Stroomverbruik:** Controleer het jaarverbruik (kWh/jaar), het leveringstarief en het teruglevertarief dat door de AI is uitgelezen.
+*   **Gasverbruik:** Controleer het jaarverbruik gas (m³) en het gastarief.
+*   **Netprofiel:** Selecteer het netcongestiegebied en geef aan of er een slimme meter aanwezig is.
+
+*[SCREENSHOT: Scherm Verbruiksprofiel met ingevulde gegevens]*
+
+> [!TIP]
+> Heeft de klant geen energierekening bij de hand? Gebruik de gemiddelde landelijke waarden: ca. 3.000 kWh stroom en ca. 1.500 m³ gas per jaar voor een gemiddeld gezin.
+
+---
+
+### Stap 4 - Legplan & Zonnepanelen Dimensionering
+Klik op **Zonnepanelen** in het linker menu.
+
+1. **Legplan opstellen:** Het systeem toont een luchtfoto van het pand. Klik op de dakvlakken om panelen te plaatsen en pas eventueel helling en oriëntatie aan.
+2. **Configuratie:** Selecteer het paneeltype uit uw catalogus (of voer het vermogen handmatig in) en kies het type omvormer (string of micro-omvormers).
+3. **Live Metrics:** Rechts in het scherm ziet u direct de live impact op de jaaropbrengst (kWh), de zelfconsumptieratio en het opgesteld vermogen (kWp).
+
+*[SCREENSHOT: Interactief legplan met opbrengst metrics]*
+
+---
+
+### Stap 5 - Thuisbatterij & Energieopslag Configurator
+Klik op **Thuisbatterij** in het linker menu en zet de toggle **Thuisbatterij advies inschakelen** aan.
+
+*   **Catalogus & Capaciteit:** Kies een batterij uit uw assortiment en selecteer de capaciteit (5, 10, 15 of 20 kWh).
+*   **Arbitrage & Sturing:** Vink *Batterijsturing via dynamisch energiecontract inschakelen* aan als de klant tariefarbitrage wil toepassen.
+*   **Plaatsing:** Selecteer de wandconstructie (verplicht voor de schouw) en geef de omgevingstemperatuur en kabelroute op.
+
+*[SCREENSHOT: Thuisbatterij configurator]*
+
+> [!IMPORTANT]
+> Een thuisbatterij vereist een slimme meter (SMR5 of vergelijkbaar) voor een correcte laadsturing. Controleer dit vooraf bij de klant.
+
+---
+
+### Stap 6 - Warmtepomp Configurator
+Klik op **Warmtepomp** in het linker menu en zet de toggle **Warmtepompadvies inschakelen** aan.
+
+*   **Type & Vermogen:** Kies tussen Hybride of All-Electric, vul het thermisch vermogen (kW) en de verwachte SCOP in.
+*   **Huidige situatie:** Voer de huidige verwarmingsbron, het type afgiftesysteem (bijv. vloerverwarming) en het isolatieniveau in.
+*   **Plaatsing & Kosten:** Specificeer de locatie van de buitenunit, boilerinhoud en voer de investering en installatiekosten in. De ISDE-subsidie wordt automatisch getoond.
+
+*[SCREENSHOT: Warmtepomp configurator met berekende impact]*
+
+---
+
+### Stap 7 - Airco & Lucht-Lucht Warmtepomp Configurator
+Klik op **Airco** in het linker menu en zet de toggle **Airco-advies inschakelen** aan.
+
+*   **Systeem:** Kies het type systeem (bijv. Single-split of Multi-split) en selecteer eventueel een merkvoorkeur.
+*   **Binnenunits:** Voeg met de knop **+ Unit toevoegen** een binnenunit toe voor elke te verwarmen of koelen ruimte.
+*   **Kosten:** Vul de geschatte totale investering in (exclusief BTW).
+
+*[SCREENSHOT: Airco configurator]*
+
+---
+
+### Stap 8 - Laadpaal Configurator (EV)
+Klik op **Laadpalen** in het linker menu en zet de toggle **Laadpaal advies inschakelen** aan.
+
+*   **Specificaties:** Selecteer het installatietype (wandmontage of montagepaal) en het laadvermogen (bijv. 11 kW / 3-fase).
+*   **Load Balancing:** Vink *Dynamic Load Balancing (DLB)* aan indien gewenst. Dit voorkomt dat de hoofdzekering overbelast raakt tijdens het laden.
+*   **Kosten:** Voer de geschatte investering in (inclusief installatie, excl. BTW).
+
+*[SCREENSHOT: Laadpaal configurator]*
+
+---
+
+### Stap 9 - ROI & Financiële Rendementsprognose
+Klik op **Rendement & ROI** in het linker menu. *Dit scherm is volledig automatisch berekend.*
+
+*   **25-Jaar Grafiek:** Toont het verschil tussen "Niets doen" (stijgende stroomkosten) en "Verduurzaamd Netto Bespaard".
+*   **Financiële Kengetallen:** Toont de terugverdientijd, het rendement (IRR), de netto contante waarde (NPV) en de besparing in jaar 1.
+*   **Gedetailleerde Opbouw:** Onderin vindt u een specificatie van de netto investeringen, BTW-verrekeningen en subsidies per maatregel.
+
+*[SCREENSHOT: ROI & Financiële Rendementsprognose]*
+
+---
+
+### Stap 10 - Technische Schouw - Overzicht
+Klik op **Schouw Overzicht** in het linker menu.
+
+Dit is een alleen-lezen samenvatting van alle technische gegevens die tijdens de opname (Stap 1 t/m 8) zijn ingevoerd.
+*   Bovenaan de pagina verschijnt een **groene statusbalk** als alle verplichte velden succesvol zijn ingevuld.
+*   Ontbreken er nog kritieke velden? Dan toont de statusbalk precies welke gegevens u nog moet aanvullen.
+
+*[SCREENSHOT: Technische Schouw - Overzicht]*
+
+---
+
+### Stap 11 - Concept Adviesrapport & Offerte
+Klik op **Adviesrapport** in het linker menu.
+
+*   **AI Samenvatting:** Klik op *Schrijf AI Samenvatting* om de Gemini AI automatisch een gepersonaliseerde toelichtingsbrief te laten schrijven voor uw klant.
+*   **Rapport exporteren:**
+    *   **Deel Rapport:** Genereert een interactieve, online link die u via e-mail of WhatsApp naar de klant stuurt.
+    *   **Rapport Afdrukken / PDF:** Download het rapport als een liggend A4 PDF-bestand.
+
+*[SCREENSHOT: Concept Adviesrapport & Offerte]*
+
+---
+
+### Stap 12 - Werkvoorbereiding & Logistiek
+Klik op **Werkvoorbereiding** in het linker menu. *Dit scherm is volledig automatisch berekend.*
+
+Hier wordt de **Bill of Materials (BOM)** gegenereerd voor uw installateurs:
+*   **Materiaallijst:** Zonnepanelen (aantal en oriëntatie), type omvormer en geschatte kabellengtes, batterij-type, warmtepomp, airco-units en de benodigde laadpaal-onderdelen.
+*   **Meterkast & Logistiek:** Type benodigde aardlekautomaat en het benodigde klimmaterieel op basis van de pandkenmerken.
+
+*[SCREENSHOT: Werkvoorbereiding & Logistiek]*

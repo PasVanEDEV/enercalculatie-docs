@@ -10,7 +10,7 @@ De AI-OCR (Optical Character Recognition) module van EnerCalculatie is het start
 2. **Extractie:** De AI herkent automatisch de context en filtert in ca. 15 seconden de belangrijkste data:
    - Jaarlijks elektriciteitsverbruik gesplitst in Normaal- en Daltarief (kWh)
    - Actuele teruglevering (kWh)
-   - Historisch gasverbruik ($m^3$)
+   - Historisch gasverbruik (m³)
    - Huidige (teruglever)kosten en netbeheerderskosten op basis van de postcode
    - Gecontracteerd vermogen of aansluitwaarde (bijv. 3x25A)
 

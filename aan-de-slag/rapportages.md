@@ -1,6 +1,7 @@
 ---
-title: "Rapportages & Delen"
-description: "Hoe u professionele adviesrapporten genereert en deelt met uw klanten"---
+title: "Rapportages genereren en delen met klanten"
+description: "Genereer professionele PDF-adviesrapporten in EnerCalculatie, deel ze via een klantlink en presenteer berekeningen overzichtelijk tijdens het verkoopgesprek."
+---
 
 Het einddoel van elke berekening in EnerCalculatie is het genereren van een helder, professioneel adviesrapport voor uw eindklant.
 

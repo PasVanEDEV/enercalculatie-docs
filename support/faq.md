@@ -1,6 +1,7 @@
 ---
-title: "Veelgestelde vragen (FAQ)"
-description: "Directe antwoorden op veelvoorkomende calculatievragen en support issues"---
+title: "Veelgestelde vragen over EnerCalculatie"
+description: "Antwoorden op veelgestelde vragen over berekeningen, gebruik van EnerCalculatie, foutmeldingen, abonnementen en supportvragen van installateurs en adviseurs."
+---
 
 Hieronder vindt u de meest gestelde vragen, onderverdeeld in vragen over de berekeningen, het gebruik van de applicatie, en vragen die wij vaak van installateurs krijgen.
 

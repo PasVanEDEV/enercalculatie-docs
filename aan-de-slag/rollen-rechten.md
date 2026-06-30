@@ -1,6 +1,6 @@
 ---
-title: "Account & Privacy (Rollen & Rechten)"
-description: "Beheer uw profielgegevens, Stripe-abonnement, tweestapsverificatie en GDPR privacy-rechten"
+title: "Account, rollen en privacy beheren"
+description: "Beheer profielgegevens, gebruikersrollen, Stripe-abonnement, tweestapsverificatie en AVG-rechten binnen het Account & Privacy-scherm van EnerCalculatie."
 ---
 
 Via het profielmenu linksboven in de navigatie krijgt u toegang tot het scherm **Account & Privacy**. Hier beheert u uw persoonlijke profiel, beveiliging en organisatierechten.

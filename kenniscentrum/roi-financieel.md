@@ -1,6 +1,7 @@
 ---
-title: "ROI & Financiële Begrippen"
-description: "Uitleg over Terugverdientijd, Rendement en de impact van energieprijzen en saldering"---
+title: "ROI en financiële begrippen voor energieadvies"
+description: "Uitleg van terugverdientijd, rendement op investering en de impact van dynamische energieprijzen en afschaffing van saldering op de businesscase voor klanten."
+---
 
 Om een overtuigend adviesgesprek te voeren, is het cruciaal dat u de financiële impact van de investering helder kunt uitleggen aan de klant. EnerCalculatie berekent deze waarden automatisch voor u.
 

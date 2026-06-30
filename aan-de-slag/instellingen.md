@@ -1,6 +1,6 @@
 ---
 title: "Instellingen beheren"
-description: "Beheer uw bedrijfsprofiel, berekeningsaannames, productcatalogus, tarieven en team"
+description: "Configureer uw bedrijfsprofiel, rekenaannames, productcatalogus, energietarieven en gebruikersrechten in EnerCalculatie via het instellingenmenu."
 ---
 
 Via het menu-item **Instellingen** (het tandwiel-pictogram in de navigatie) beheert u de globale configuratie van uw organisatie. Wijzigingen die u hier opslaat, worden direct toegepast op alle nieuwe berekeningen en rapporten.

@@ -1,5 +1,11 @@
 {
   "name": "EnerCalculatie Kennisbank",
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#2563EB",
+    "light": "#3B82F6",
+    "dark": "#1D4ED8"
+  },
   "navigation": [
     {
       "group": "Aan de slag",

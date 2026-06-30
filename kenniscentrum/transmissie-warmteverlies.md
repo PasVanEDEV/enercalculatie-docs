@@ -1,6 +1,7 @@
 ---
-title: "Transmissie & Warmteverlies"
-description: "Berekeningsmethodiek conform ISSO-richtlijnen"---
+title: "Transmissie en warmteverlies volgens ISSO 51 en 53"
+description: "Berekeningsmethodiek voor transmissie- en ventilatieverlies conform ISSO 51 en 53 om het piekvermogen voor warmtepompen en cv-installaties te bepalen."
+---
 
 De warmteverliesberekening bepaalt het piekvermogen dat nodig is om het gebouw warm te houden tijdens extreme winterse omstandigheden.
 

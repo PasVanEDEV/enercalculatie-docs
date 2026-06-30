@@ -1,6 +1,6 @@
 ---
 title: "Snelstartgids"
-description: "Binnen 5 minuten uw eerste volledige energiecalculatie gereed"
+description: "Doorloop de 12-stappen workflow van EnerCalculatie en maak binnen vijf minuten uw eerste volledige energiecalculatie en adviesrapport voor een klantdossier."
 ---
 
 Volg deze gids om snel en foutloos een dossier op te stellen. EnerCalculatie begeleidt u stap voor stap via een overzichtelijke 12-stappen workflow.

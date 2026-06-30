@@ -1,6 +1,7 @@
 ---
-title: "Laadpalen (EV-Laders)"
-description: "Het verschil tussen AC/DC laden, fasen en slimme functionaliteiten"---
+title: "Laadpalen en EV-laders voor thuislaadinstallaties"
+description: "Verschillen tussen AC- en DC-laden, één- versus driefasen aansluitingen en slimme laadfunctionaliteit voor thuislaadpalen bij elektrische auto's."
+---
 
 Met de groei van elektrische voertuigen (EV's) wordt ook de thuislaadpaal een standaard onderdeel van de energie-installatie van een woning. In het rapportagemodel van EnerCalculatie kunnen laadpalen worden meegenomen in de totale berekening.
 

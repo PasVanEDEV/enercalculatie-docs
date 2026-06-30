@@ -1,6 +1,7 @@
 ---
-title: "Dimensionering & Rendement"
-description: "Hydraulische inregeling en warmtepompselectie"---
+title: "Dimensionering en rendement van warmtepompen"
+description: "Begrippen rond COP, SCOP, hydraulische inregeling en warmtepompselectie om installaties juist te dimensioneren en het seizoensrendement te optimaliseren."
+---
 
 Nadat het warmteverlies is gecalculeerd, helpt EnerCalculatie bij het selecteren en optimaal inregelen van de installatie.
 

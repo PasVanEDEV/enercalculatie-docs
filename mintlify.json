@@ -1,0 +1,36 @@
+{
+  "name": "EnerCalculatie Kennisbank",
+  "navigation": [
+    {
+      "group": "Aan de slag",
+      "pages": [
+        "introductie",
+        "snelstartgids",
+        "rollen-rechten",
+        "rapportages",
+        "functies-ai-ocr"
+      ]
+    },
+    {
+      "group": "Kenniscentrum & Jargon",
+      "pages": [
+        "roi-financieel",
+        "zonnepanelen-basis",
+        "thuisbatterijen",
+        "warmtepompen-aircos",
+        "laadpalen",
+        "subsidies-regelingen",
+        "bouwfysica-schil",
+        "transmissie-warmteverlies",
+        "koellast-to-juli",
+        "dimensionering-rendement"
+      ]
+    },
+    {
+      "group": "Support & FAQ",
+      "pages": [
+        "faq"
+      ]
+    }
+  ]
+}

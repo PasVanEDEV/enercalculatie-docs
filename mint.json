@@ -10,32 +10,32 @@
     {
       "group": "Aan de slag",
       "pages": [
-        "introductie",
-        "snelstartgids",
-        "rollen-rechten",
-        "rapportages",
-        "functies-ai-ocr"
+        "docs/aan-de-slag/introductie",
+        "docs/aan-de-slag/snelstartgids",
+        "docs/aan-de-slag/rollen-rechten",
+        "docs/aan-de-slag/rapportages",
+        "docs/aan-de-slag/functies-ai-ocr"
       ]
     },
     {
       "group": "Kenniscentrum & Jargon",
       "pages": [
-        "roi-financieel",
-        "zonnepanelen-basis",
-        "thuisbatterijen",
-        "warmtepompen-aircos",
-        "laadpalen",
-        "subsidies-regelingen",
-        "bouwfysica-schil",
-        "transmissie-warmteverlies",
-        "koellast-to-juli",
-        "dimensionering-rendement"
+        "docs/kenniscentrum/roi-financieel",
+        "docs/kenniscentrum/zonnepanelen-basis",
+        "docs/kenniscentrum/thuisbatterijen",
+        "docs/kenniscentrum/warmtepompen-aircos",
+        "docs/kenniscentrum/laadpalen",
+        "docs/kenniscentrum/subsidies-regelingen",
+        "docs/kenniscentrum/bouwfysica-schil",
+        "docs/kenniscentrum/transmissie-warmteverlies",
+        "docs/kenniscentrum/koellast-to-juli",
+        "docs/kenniscentrum/dimensionering-rendement"
       ]
     },
     {
       "group": "Support & FAQ",
       "pages": [
-        "faq"
+        "docs/support/faq"
       ]
     }
   ]

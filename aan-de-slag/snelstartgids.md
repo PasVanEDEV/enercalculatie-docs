@@ -13,7 +13,9 @@ Volg deze gids om snel en foutloos een dossier op te stellen. EnerCalculatie beg
 
 Ga naar [app.enercalculatie.nl](https://app.enercalculatie.nl), vil uw e-mailadres en wachtwoord in en klik op **Inloggen**.
 
-_\[SCREENSHOT: Het inlogscherm van app.enercalculatie.nl\]_
+<Frame>
+  ![Image](/images/image.png)
+</Frame>
 
 ---
 
@@ -21,7 +23,9 @@ _\[SCREENSHOT: Het inlogscherm van app.enercalculatie.nl\]_
 
 Na het inloggen ziet u uw dashboard. Hier vindt u een overzicht van al uw dossiers. Klik op **Dossier aanmaken** om direct een nieuw klantdossier te starten.
 
-_\[SCREENSHOT: Dashboard met de knop Dossier aanmaken\]_
+<Frame>
+  ![Image](/images/image-1.png)
+</Frame>
 
 ---
 
@@ -57,7 +61,9 @@ Klik op **Pandgegevens** in het linker menu.
 - **Wandconstructie & Kabeltrajecten:** Selecteer de wandconstructie en beschrijf de kabelroute van de omvormer naar de meterkast.
 - **Foto's uploaden:** Voeg foto's toe van de voorgevel, het dak en de groepenkast.
 
-_\[SCREENSHOT: Scherm Pand & Klantdossier Registratie met alle secties\]_
+<Frame>
+  ![Image](/images/image-2.png)
+</Frame>
 
 > \[!TIP\] Vul alle velden zo volledig mogelijk in. Ontbrekende gegevens worden in het schouwoverzicht (Stap 10) als leeg weergegeven.
 
@@ -71,7 +77,9 @@ Klik op **AI Scan & OCR** in het linker menu.
 2. De AI-engine analyseert het document op de achtergrond en haalt binnen 15 seconden de verbruiksgegevens en tarieven op.
 3. De geëxtraheerde data wordt automatisch ingevuld in Stap 3.
 
-_\[SCREENSHOT: Slimme Documenten Uitlezer met geüpload document\]_
+<Frame>
+  ![Image](/images/image-3.png)
+</Frame>
 
 ---
 
@@ -83,7 +91,9 @@ Klik op **Energieprofiel** in het linker menu.
 - **Gasverbruik:** Controleer het jaarverbruik gas (m³) en het gastarief.
 - **Netprofiel:** Selecteer het netcongestiegebied en geef aan of er een slimme meter aanwezig is.
 
-_\[SCREENSHOT: Scherm Verbruiksprofiel met ingevulde gegevens\]_
+<Frame>
+  ![Image](/images/image-4.png)
+</Frame>
 
 > \[!TIP\] Heeft de klant geen energierekening bij de hand? Gebruik de gemiddelde landelijke waarden: ca. 3.000 kWh stroom en ca. 1.500 m³ gas per jaar voor een gemiddeld gezin.
 
@@ -97,7 +107,9 @@ Klik op **Zonnepanelen** in het linker menu.
 2. **Configuratie:** Selecteer het paneeltype uit uw catalogus (of voer het vermogen handmatig in) en kies het type omvormer (string of micro-omvormers).
 3. **Live Metrics:** Rechts in het scherm ziet u direct de live impact op de jaaropbrengst (kWh), de zelfconsumptieratio en het opgesteld vermogen (kWp).
 
-_\[SCREENSHOT: Interactief legplan met opbrengst metrics\]_
+<Frame>
+  ![Image](/images/image-5.png)
+</Frame>
 
 ---
 
@@ -109,7 +121,9 @@ Klik op **Thuisbatterij** in het linker menu en zet de toggle **Thuisbatterij ad
 - **Arbitrage & Sturing:** Vink _Batterijsturing via dynamisch energiecontract inschakelen_ aan als de klant tariefarbitrage wil toepassen.
 - **Plaatsing:** Selecteer de wandconstructie (verplicht voor de schouw) en geef de omgevingstemperatuur en kabelroute op.
 
-_\[SCREENSHOT: Thuisbatterij configurator\]_
+<Frame>
+  ![Image](/images/image-6.png)
+</Frame>
 
 > \[!IMPORTANT\] Een thuisbatterij vereist een slimme meter (SMR5 of vergelijkbaar) voor een correcte laadsturing. Controleer dit vooraf bij de klant.
 
@@ -123,7 +137,9 @@ Klik op **Warmtepomp** in het linker menu en zet de toggle **Warmtepompadvies in
 - **Huidige situatie:** Voer de huidige verwarmingsbron, het type afgiftesysteem (bijv. vloerverwarming) en het isolatieniveau in.
 - **Plaatsing & Kosten:** Specificeer de locatie van de buitenunit, boilerinhoud en voer de investering en installatiekosten in. De ISDE-subsidie wordt automatisch getoond.
 
-_\[SCREENSHOT: Warmtepomp configurator met berekende impact\]_
+<Frame>
+  ![Image](/images/image-7.png)
+</Frame>
 
 ---
 
@@ -135,7 +151,9 @@ Klik op **Airco** in het linker menu en zet de toggle **Airco-advies inschakelen
 - **Binnenunits:** Voeg met de knop **\+ Unit toevoegen** een binnenunit toe voor elke te verwarmen of koelen ruimte.
 - **Kosten:** Vul de geschatte totale investering in (exclusief BTW).
 
-_\[SCREENSHOT: Airco configurator\]_
+<Frame>
+  ![Image](/images/image-8.png)
+</Frame>
 
 ---
 

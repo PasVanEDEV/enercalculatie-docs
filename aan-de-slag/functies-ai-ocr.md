@@ -1,5 +1,5 @@
 ---
-title: "AI-OCR factuurherkenning"
+title: "AI-OCR: energierekening automatisch inlezen"
 description: "Lees automatisch verbruik, tarieven en jaarnota's uit met de AI-OCR module van EnerCalculatie en zet PDF-energierekeningen direct om in calculatiedata."
 ---
 

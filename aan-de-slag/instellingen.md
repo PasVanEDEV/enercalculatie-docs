@@ -1,5 +1,5 @@
 ---
-title: "Instellingen beheren"
+title: "Instellingen: bedrijfsprofiel, tarieven en catalogus"
 description: "Configureer uw bedrijfsprofiel, rekenaannames, productcatalogus, energietarieven en gebruikersrechten in EnerCalculatie via het instellingenmenu."
 ---
 

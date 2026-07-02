@@ -1,5 +1,5 @@
 ---
-title: "Snelstartgids"
+title: "Snelstartgids: eerste dossier in EnerCalculatie"
 description: "Doorloop de 12-stappen workflow van EnerCalculatie en maak binnen vijf minuten uw eerste volledige energiecalculatie en adviesrapport voor een klantdossier."
 ---
 
